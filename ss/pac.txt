@@ -2,6 +2,9 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "tdesktop.com" : 1,
+  "telegram.org" : 1,
+  "chrome.com" : 1,
   "wolframalpha.com" : 1,
   "wolfram.com" : 1,
   "jboss.org" : 1,
