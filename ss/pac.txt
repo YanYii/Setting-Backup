@@ -2,6 +2,11 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "openvpn.org" : 1,
+  "sinocle.info" : 1,
+  "fastcomet.com" : 1,
+  "sinocle.net" : 1,
+  "gimpshop.com": 1,
   "amazonaws.com" : 1,
   "godaddy.com" : 1,
   "gitbooks.io" : 1,
